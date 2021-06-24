@@ -1,0 +1,66 @@
+/**
+ * assn 402
+ * yiqingw
+ */
+
+
+body{
+    /*#2aabd2, darkseagreen slateblue mediumslateblue lightsteelblue*/
+    background: darkseagreen;
+    background-size: cover;
+}
+
+
+/*[type="button"] submit */
+.btn-success{
+    background: slateblue;
+    border: rebeccapurple;
+}
+
+.btn-info {
+    background: darkgreen;
+    border: seagreen;
+}
+
+.btn-warning {
+    background: darkkhaki;
+    border: darkkhaki;
+}
+
+.pagination_div {
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.modal-header {
+    background: slateblue;
+}
+
+.modal-title {
+    color: white;
+}
+
+th {
+    color: white;
+}
+
+.modal-body input{
+    padding:5px;
+    width: 180px;
+}
+
+.modal-body input[type="radio"]{
+    margin: 5px;
+    width: auto;
+}
+
+.centerT{
+    text-align: center;
+    color: white;
+}
+
+#form_1 input{
+    width: 5.5em;
+}
